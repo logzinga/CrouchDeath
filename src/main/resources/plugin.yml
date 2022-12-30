@@ -1,0 +1,6 @@
+name: CrouchDeath
+version: '${project.version}'
+main: com.logzinga.crouchdeath.CrouchDeath
+api-version: 1.19
+authors: [ logzinga ]
+description: One Crouch will Kill You
